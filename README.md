@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![programmer](https://cdni.iconscout.com/illustration/premium/thumb/male-programmer-working-on-laptop-4375019-3640109.pngg)
+![programmer](https://cdni.iconscout.com/illustration/premium/thumb/male-programmer-working-on-laptop-4375019-3640109.png)
 
 Here are some ideas to get you started:
 
