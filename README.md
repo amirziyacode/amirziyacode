@@ -1,4 +1,4 @@
-Hi 👋 My name is AIMR
+Hi 👋 My name is AMIR
 =====================
 
 MOBILE DEVELOPER
