@@ -1,7 +1,7 @@
 Hi 👋 My name is AIMR
 =====================
 
-MOBILE DEVELOPER
+DEVELOPER
 ----------------
 
 I started programming at the age of 15 and now I am studying and coding. I started programming with Python, then C #, then I was able to design a site with HTML and CSS, and now as I work on a special Flutter. study at high school
