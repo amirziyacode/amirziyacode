@@ -9,7 +9,7 @@ I started programming at the age of 15 and now I am studying and coding. I start
 * 🌍  I'm based in IRAN
 * 🖥️  See my portfolio at [Instagram](http://www.instagram.com/amirziya.py/)
 * ✉️  You can contact me at [programmerbusiness01@gmail.com](mailto:programmerbusiness01@gmail.com)
-* 🚀  I'm currently working on [Flutter](http://https://flutter.dev/)
+* 🚀  I'm currently working on [JAVA](https://www.java.com/en/)
 * 🧠  I'm learning Flutter
 
 <a href="https://www.twitter.com/AmzDid" target="_blank" rel="noreferrer"><img
