@@ -10,7 +10,7 @@ I started programming at the age of 15 and now I am studying and coding. I start
 * 🖥️  See my portfolio at [Instagram](http://www.instagram.com/amirziya.py/)
 * ✉️  You can contact me at [programmerbusiness01@gmail.com](mailto:programmerbusiness01@gmail.com)
 * 🚀  I'm currently working on [JAVA](https://www.java.com/en/)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning JAVA
 
 <a href="https://www.twitter.com/AmzDid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AmzDid?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
