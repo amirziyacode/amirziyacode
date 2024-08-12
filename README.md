@@ -19,8 +19,8 @@ src="https://img.shields.io/github/followers/amirziyacode?logo=github&style=for-
 ### Skills
 
 <p align="left">
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Java" /></a>
-![java](https://github.com/user-attachments/assets/1ec31b54-6b6a-46cf-ac17-371cde348495)
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1ec31b54-6b6a-46cf-ac17-371cde348495" width="36" height="36" alt="Java" /></a>
+
 
 
 ### Socials
