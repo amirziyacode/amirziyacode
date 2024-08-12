@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/amirziyacode?logo=github&style=for-
 ### Skills
 
 <p align="left">
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/c8dc0b16-6c3a-4a8b-ba68-b3e918207099" width="36" height="36" alt="Java" /></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/21a8442f-01c4-4d7b-af3d-126baf41719b" width="36" height="36" alt="Java" /></a>
 
 
 
