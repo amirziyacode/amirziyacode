@@ -4,7 +4,7 @@ Hi 👋 My name is AIMR
 DEVELOPER
 ----------------
 
-I started programming at the age of 15 and now I am studying and coding. I started programming with Python, then C #, then I was able to design a site with HTML and CSS, and now as I work on a special Flutter. study at high school 2004/11/04
+I started programming at the age of 15 and now I am studying and coding. I started programming with Python, then C #, then I was able to design a site with HTML and CSS, and now as I work on a special JAVA. study at high school 2004/11/04
 
 * 🌍  I'm based in IRAN
 * 🖥️  See my portfolio at [Instagram](http://www.instagram.com/amirziya.py/)
