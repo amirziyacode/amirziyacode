@@ -1,42 +1,27 @@
-Hi 👋 My name is AIMR
-=====================
-
-DEVELOPER
-----------------
-
-I started programming at the age of 15 and now I am studying and coding. I started programming with Python, then C #, then I was able to design a site with HTML and CSS, and now as I work on a special JAVA. study at high school 2004/11/04
-
-* 🌍  I'm based in IRAN
-* 🖥️  See my portfolio at [Instagram](http://www.instagram.com/amirziya.py/)
-* ✉️  You can contact me at [programmerbusiness01@gmail.com](mailto:programmerbusiness01@gmail.com)
-* 🚀  I'm currently working on [JAVA](https://www.java.com/en/)
-* 🧠  I'm learning JAVA
-
-<a href="https://www.twitter.com/AmzDid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AmzDid?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
-/></a><a href="https://www.github.com/amirziyacode" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/amirziyacode?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
-### Skills
-
-<p align="left">
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/21a8442f-01c4-4d7b-af3d-126baf41719b" width="36" height="36" alt="Java" /></a>
+# 💫 About Me:
+🌍 I'm based in IRAN<br>🖥️ See my portfolio at Instagram<br>✉️ You can contact me at programmerbusiness01@gmail.com<br>🚀 I'm currently working on JAVA<br>🧠 I'm learning JAVA
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirziya.py) 
 
-### Socials
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amirziyacode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amirziyacode&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirziyacode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://www.github.com/amirziyacode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amirziya.py" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/amirziya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AmzDid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amirziyacode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### Badges
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<b>My GitHub Stats</b>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amirziyacode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<a href="http://www.github.com/amirziyacode"><img src="https://github-readme-stats.vercel.app/api?username=amirziyacode&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="amirziyacode's GitHub stats" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=amirziyacode&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/amirziyacode/Flutter_Todo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amirziyacode&repo=Flutter_Todo&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/amzdidiW"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
