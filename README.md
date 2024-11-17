@@ -1,5 +1,5 @@
 # 💫 About Me:
-I started programming at the age of 15 and now I am studying and coding. I started programming with Python, then C #, then I was able to design a site with HTML and CSS, and now as I work on a special JAVA. study at Calleg
+I started programming at the age of 15 and now I am studying and coding. I started programming with Python, then C #, then I was able to design a site with HTML and CSS, and now as I work on a special JAVA. study at College
 
 
 🌍 I'm based in IRAN<br>🖥️ See my portfolio at Instagram<br>✉️ You can contact me at programmerbusiness01@gmail.com<br>🚀 I'm currently working on JAVA<br>🧠 I'm learning JAVA
