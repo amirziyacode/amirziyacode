@@ -1,5 +1,5 @@
 # 💫 About Me:
-I Love to building and solve problem in this world 
+I love building things and solving real-world problems.
 
 🔭 I’m currently working on Java,SpringBoot<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact
 
