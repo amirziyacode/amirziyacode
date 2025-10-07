@@ -1,7 +1,13 @@
-# 💫 About Me:
-I love building things and solving real-world problems.
+## 💫 About Me  
+I’m passionate about **building things that make an impact** and solving **real-world problems** through code.  
 
-🔭 I’m currently working on Java,SpringBoot<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact
+🔭 Currently working with **Java & Spring Boot** to build scalable backend systems.  
+👯 Open to collaborating on **innovative backend or full-stack projects**.  
+🤝 Looking for guidance and ideas to **improve my software architecture skills**.  
+🌱 Currently learning **advanced Spring Boot,design patterns, and cloud deployment**.  
+💬 Ask me about **Java, Spring Boot, APIs, or problem-solving in general**.  
+⚡ Fun fact: I love challenges that push me out of my comfort zone — both in coding and life!  
+
 
 
 ## 🌐 Socials:
