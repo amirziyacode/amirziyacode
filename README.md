@@ -1,12 +1,19 @@
 ## 💫 About Me  
-I’m passionate about **building things that make an impact** and solving **real-world problems** through code.  
+🚀 Passionate about blockchain, cybersecurity, and building systems that solve real-world problems.
 
-🔭 Currently working with **Java & Spring Boot** to build scalable backend systems.  
-👯 Open to collaborating on **innovative backend or full-stack projects**.  
-🤝 Looking for guidance and ideas to **improve my software architecture skills**.  
-🌱 Currently learning **advanced Spring Boot,design patterns, and cloud deployment**.  
-💬 Ask me about **Java, Spring Boot, APIs, or problem-solving in general**.  
-⚡ Fun fact: I love challenges that push me out of my comfort zone — both in coding and life!  
+🔭 Currently exploring smart contract security, blockchain protocols, and security engineering.
+
+🦀 Learning Rust, Go, and advanced blockchain development to build secure and efficient applications.
+
+🔐 Interested in Web3 security, smart contract auditing, bug bounty hunting, and offensive security.
+
+🤝 Open to collaborating on blockchain, cybersecurity, and open-source projects.
+
+💡 Always looking to deepen my understanding of computer science, networking, cryptography, and system design.
+
+💬 Ask me about blockchain, smart contracts, Go, Rust, Java, security fundamentals, or problem-solving.
+
+⚡ Fun fact: I enjoy tackling difficult challenges and learning complex technologies from the ground up.
 
 
 
